@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "kai",
+        "idade": "19",
+        "cidade": "curitiba",
+        "estado": "paran\u00e1",
+        "livros_digitais": "8",
+        "livros_fisicos": "16",
+        "preferencia_leitura": "livro fisico",
+        "horas_estudo": "6",
+        "horas_entretenimento": "4"
+    }
+]
