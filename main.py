@@ -8,3 +8,9 @@ while True:
     if opcao == "1":
         sistema_de_usuarios.adicionar_usuarios()
 
+    elif opcao == "2":
+        sistema_de_usuarios.listar_usuarios()
+    
+    elif opcao == "3":
+        sistema_de_usuarios.login_e_gerar_relatorio()
+
